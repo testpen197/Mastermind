@@ -309,3 +309,8 @@ class GameInterface:
         
         # Quitter pygame
         pygame.quit()
+
+
+
+
+        
