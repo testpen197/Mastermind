@@ -4,7 +4,7 @@ from interface import GameInterface
 class MastermindGame:
     
     def __init__(self):
-        # Les 6 couleurs disponibles (representees par des nombres)
+        # Les 6 couleurs disponibles representer aussi par des nombre 
         self.colors = [1, 2, 3, 4, 5, 6]
         
         # La combinaison secrete que le joueur doit deviner
